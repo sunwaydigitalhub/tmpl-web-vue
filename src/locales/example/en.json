@@ -1,0 +1,35 @@
+{
+  "example": {
+    "title": "DataTable",
+    "intro": "Example Module: search, sort and page through records, and create, edit or delete them.",
+    "newRecord": "New record",
+    "editRecord": "Edit record",
+    "fields": {
+      "code": "Code",
+      "name": "Name",
+      "status": "Status",
+      "description": "Description"
+    },
+    "status": {
+      "active": "Active",
+      "draft": "Draft",
+      "inactive": "Inactive"
+    },
+    "validation": {
+      "codeRequired": "Code is required.",
+      "nameRequired": "Name is required."
+    },
+    "toast": {
+      "created": "Record created",
+      "updated": "Record updated",
+      "deleted": "Record deleted"
+    },
+    "deleteConfirm": {
+      "header": "Delete record",
+      "message": "Delete {code} ({name})? This cannot be undone.",
+      "messageMany": "Delete {count} records? This cannot be undone."
+    },
+    "deleteSelected": "Delete selected ({count})",
+    "recordCount": "{count} records"
+  }
+}

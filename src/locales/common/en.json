@@ -1,0 +1,38 @@
+{
+  "common": {
+    "actions": {
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "save": "Save"
+    },
+    "appName": "GBMC Trademark Management System",
+    "breadcrumb": {
+      "label": "Breadcrumb"
+    },
+    "language": "Language",
+    "listing": {
+      "actions": "Actions",
+      "empty": "No records found.",
+      "pageReport": "Showing {first} - {last} of {totalRecords} entries",
+      "search": "Search",
+      "searchLabel": "Search records"
+    },
+    "sidebar": {
+      "collapse": "Collapse sidebar",
+      "expand": "Expand sidebar",
+      "groups": {
+        "example": "Example Module"
+      },
+      "home": "Home",
+      "label": "Main",
+      "menu": "Menu",
+      "openMenu": "Open menu",
+      "resize": "Resize sidebar",
+      "sections": {
+        "admin": "Admin",
+        "workspace": "Workspace"
+      }
+    }
+  }
+}

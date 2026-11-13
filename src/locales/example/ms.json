@@ -1,0 +1,35 @@
+{
+  "example": {
+    "title": "Jadual Data",
+    "intro": "Modul Contoh: cari, isih dan lihat rekod mengikut halaman, serta cipta, sunting atau padam rekod.",
+    "newRecord": "Rekod baharu",
+    "editRecord": "Sunting rekod",
+    "fields": {
+      "code": "Kod",
+      "name": "Nama",
+      "status": "Status",
+      "description": "Keterangan"
+    },
+    "status": {
+      "active": "Aktif",
+      "draft": "Draf",
+      "inactive": "Tidak aktif"
+    },
+    "validation": {
+      "codeRequired": "Kod wajib diisi.",
+      "nameRequired": "Nama wajib diisi."
+    },
+    "toast": {
+      "created": "Rekod dicipta",
+      "updated": "Rekod dikemas kini",
+      "deleted": "Rekod dipadam"
+    },
+    "deleteConfirm": {
+      "header": "Padam rekod",
+      "message": "Padam {code} ({name})? Tindakan ini tidak boleh dibatalkan.",
+      "messageMany": "Padam {count} rekod? Tindakan ini tidak boleh dibatalkan."
+    },
+    "deleteSelected": "Padam yang dipilih ({count})",
+    "recordCount": "{count} rekod"
+  }
+}

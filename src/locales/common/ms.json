@@ -1,0 +1,38 @@
+{
+  "common": {
+    "actions": {
+      "cancel": "Batal",
+      "delete": "Padam",
+      "edit": "Sunting",
+      "save": "Simpan"
+    },
+    "appName": "Sistem Pengurusan Cap Dagangan GBMC",
+    "breadcrumb": {
+      "label": "Jejak navigasi"
+    },
+    "language": "Bahasa",
+    "listing": {
+      "actions": "Tindakan",
+      "empty": "Tiada rekod ditemui.",
+      "pageReport": "Memaparkan {first} - {last} daripada {totalRecords} entri",
+      "search": "Cari",
+      "searchLabel": "Cari rekod"
+    },
+    "sidebar": {
+      "collapse": "Kuncupkan bar sisi",
+      "expand": "Kembangkan bar sisi",
+      "groups": {
+        "example": "Modul Contoh"
+      },
+      "home": "Laman Utama",
+      "label": "Utama",
+      "menu": "Menu",
+      "openMenu": "Buka menu",
+      "resize": "Ubah saiz bar sisi",
+      "sections": {
+        "admin": "Pentadbiran",
+        "workspace": "Ruang Kerja"
+      }
+    }
+  }
+}
